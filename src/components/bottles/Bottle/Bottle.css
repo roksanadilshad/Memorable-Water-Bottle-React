@@ -2,5 +2,17 @@
 .card{
     padding: 20px;
     margin: 20px;
-    border: 1px solid #777;
+    border: 1px solid #7777776b;
+    border-radius: 12px;
+}
+.card h2, .card h4{
+    padding: 0px;
+    margin: 0;
+}
+.card p{
+    padding: 2px;
+    margin: 0;
+}
+.bottle-img {
+    width: 240px;
 }
